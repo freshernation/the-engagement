@@ -1,0 +1,74 @@
+ACCOUNT STATEMENT
+B/F 305,000.00 Cr
+
+03 Apr 2026  GST PAYMENT               88,498.06 Dr  Bal 216,501.94 Cr
+04 Apr 2026  RTGS/WHOLESALER          173,528.46 Cr  Bal 390,030.40 Cr
+04 Apr 2026  RENT                      66,440.79 Dr  Bal 323,589.61 Cr
+09 Apr 2026  ELECTRICITY               90,087.58 Dr  Bal 233,502.03 Cr
+11 Apr 2026  NEFT/SUPPLIER            152,018.49 Dr  Bal 81,483.54 Cr
+11 Apr 2026  UPI/CUSTOMER             117,255.09 Cr  Bal 198,738.63 Cr
+14 Apr 2026  UPI/RETAIL               102,549.56 Cr  Bal 301,288.19 Cr
+20 Apr 2026  UPI/CUSTOMER              67,949.68 Cr  Bal 369,237.87 Cr
+24 Apr 2026  UPI/RETAIL               149,301.18 Cr  Bal 518,539.05 Cr
+24 Apr 2026  UPI/CUSTOMER              72,253.63 Cr  Bal 590,792.68 Cr
+24 Apr 2026  EMI                      150,941.96 Dr  Bal 439,850.72 Cr
+26 Apr 2026  UPI/CUSTOMER             150,067.30 Cr  Bal 589,918.02 Cr
+01 May 2026  UPI/CUSTOMER             154,017.64 Cr  Bal 743,935.66 Cr
+03 May 2026  UPI/CUSTOMER             139,975.33 Cr  Bal 883,910.99 Cr
+05 May 2026  NEFT/SUPPLIER             43,298.52 Dr  Bal 840,612.47 Cr
+19 May 2026  UPI/RETAIL               180,613.39 Cr  Bal 1,021,225.86 Cr
+20 May 2026  NEFT/DISTRIBUTOR         158,068.29 Cr  Bal 1,179,294.15 Cr
+22 May 2026  ELECTRICITY               59,571.30 Dr  Bal 1,119,722.85 Cr
+23 May 2026  UPI/VENDOR                62,441.10 Dr  Bal 1,057,281.75 Cr
+24 May 2026  UPI/VENDOR                47,829.38 Dr  Bal 1,009,452.37 Cr
+24 May 2026  NEFT/SUPPLIER            164,320.16 Dr  Bal 845,132.21 Cr
+28 May 2026  UPI/CUSTOMER              49,188.37 Cr  Bal 894,320.58 Cr
+01 Jun 2026  UPI/RETAIL                78,733.52 Cr  Bal 973,054.10 Cr
+04 Jun 2026  SALARY                    47,951.64 Dr  Bal 925,102.46 Cr
+09 Jun 2026  CASH DEPOSIT              60,789.59 Cr  Bal 985,892.05 Cr
+12 Jun 2026  CASH DEPOSIT             174,966.03 Cr  Bal 1,160,858.08 Cr
+12 Jun 2026  CASH DEPOSIT              89,802.83 Cr  Bal 1,250,660.91 Cr
+13 Jun 2026  UPI/VENDOR                70,369.03 Dr  Bal 1,180,291.88 Cr
+13 Jun 2026  UPI/VENDOR               159,120.97 Dr  Bal 1,021,170.91 Cr
+14 Jun 2026  EMI                       52,964.23 Dr  Bal 968,206.68 Cr
+15 Jun 2026  RTGS/WHOLESALER           76,623.19 Cr  Bal 1,044,829.87 Cr
+17 Jun 2026  RTGS/WHOLESALER          100,696.35 Cr  Bal 1,145,526.22 Cr
+19 Jun 2026  EMI                      126,026.37 Dr  Bal 1,019,499.85 Cr
+23 Jun 2026  NEFT/SUPPLIER            111,006.69 Dr  Bal 908,493.16 Cr
+24 Jun 2026  CASH DEPOSIT             163,109.26 Cr  Bal 1,071,602.42 Cr
+25 Jun 2026  ELECTRICITY               94,049.06 Dr  Bal 977,553.36 Cr
+02 Jul 2026  ELECTRICITY              141,068.93 Dr  Bal 836,484.43 Cr
+02 Jul 2026  UPI/RETAIL                78,038.67 Cr  Bal 914,523.10 Cr
+03 Jul 2026  NEFT/SUPPLIER             77,678.99 Dr  Bal 836,844.11 Cr
+03 Jul 2026  RTGS/WHOLESALER           68,522.96 Cr  Bal 905,367.07 Cr
+06 Jul 2026  NEFT/SUPPLIER            116,009.40 Dr  Bal 789,357.67 Cr
+06 Jul 2026  UPI/VENDOR                74,981.45 Dr  Bal 714,376.22 Cr
+10 Jul 2026  ELECTRICITY              160,428.34 Dr  Bal 553,947.88 Cr
+10 Jul 2026  NEFT/DISTRIBUTOR         128,918.23 Cr  Bal 682,866.11 Cr
+25 Jul 2026  EMI                      113,740.26 Dr  Bal 569,125.85 Cr
+01 Aug 2026  SALARY                   113,381.36 Dr  Bal 455,744.49 Cr
+06 Aug 2026  NEFT/SUPPLIER             68,594.34 Dr  Bal 387,150.15 Cr
+07 Aug 2026  RTGS/WHOLESALER          113,764.44 Cr  Bal 500,914.59 Cr
+08 Aug 2026  RTGS/WHOLESALER          186,603.92 Cr  Bal 687,518.51 Cr
+16 Aug 2026  CASH DEPOSIT             180,939.25 Cr  Bal 868,457.76 Cr
+17 Aug 2026  UPI/CUSTOMER             162,971.22 Cr  Bal 1,031,428.98 Cr
+18 Aug 2026  UPI/RETAIL                72,919.17 Cr  Bal 1,104,348.15 Cr
+18 Aug 2026  UPI/CUSTOMER             123,886.73 Cr  Bal 1,228,234.88 Cr
+19 Aug 2026  GST PAYMENT              107,230.19 Dr  Bal 1,121,004.69 Cr
+21 Aug 2026  NEFT/SUPPLIER            159,070.94 Dr  Bal 961,933.75 Cr
+22 Aug 2026  SALARY                    87,199.33 Dr  Bal 874,734.42 Cr
+23 Aug 2026  UPI/CUSTOMER              56,704.35 Cr  Bal 931,438.77 Cr
+24 Aug 2026  UPI/CUSTOMER              67,793.21 Cr  Bal 999,231.98 Cr
+03 Sep 2026  SALARY                   124,834.33 Dr  Bal 874,397.65 Cr
+04 Sep 2026  UPI/CUSTOMER              65,293.11 Cr  Bal 939,690.76 Cr
+05 Sep 2026  EMI                      162,882.29 Dr  Bal 776,808.47 Cr
+05 Sep 2026  NEFT/DISTRIBUTOR          98,221.94 Cr  Bal 875,030.41 Cr
+07 Sep 2026  NEFT/DISTRIBUTOR         139,398.77 Cr  Bal 1,014,429.18 Cr
+11 Sep 2026  RTGS/WHOLESALER          185,381.69 Cr  Bal 1,199,810.87 Cr
+12 Sep 2026  RTGS/WHOLESALER           51,377.38 Cr  Bal 1,251,188.25 Cr
+15 Sep 2026  RENT                      64,861.23 Dr  Bal 1,186,327.02 Cr
+16 Sep 2026  UPI/VENDOR                45,586.16 Dr  Bal 1,140,740.86 Cr
+19 Sep 2026  RTGS/WHOLESALER           75,228.97 Cr  Bal 1,215,969.83 Cr
+20 Sep 2026  UPI/CUSTOMER             125,121.96 Cr  Bal 1,341,091.79 Cr
+23 Sep 2026  EMI                       82,346.94 Dr  Bal 1,258,744.85 Cr
+25 Sep 2026  CASH DEPOSIT              57,342.22 Cr  Bal 1,316,087.07 Cr

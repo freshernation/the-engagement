@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.DS_Store
+.vscode/
+
+# Instructor materials live in their own private repository.
+instructor/

@@ -1,0 +1,23 @@
+case_number,medicine,strength,dispensed_on,qty_dispensed,qty_returned,for_discharge
+SMH-26-4411,ceftriaxone injection,1 g,2026-10-07,6,0,no
+SMH-26-4411,paracetamol,650 mg,2026-10-07,6,4,no
+SMH-26-4411,metformin,500 mg,2026-10-07,6,0,no
+SMH-26-4411,insulin regular,40 IU/ml,2026-10-08,1,1,no
+SMH-26-4411,cefixime,200 mg,2026-10-10,14,0,yes
+SMH-26-4411,metformin,500 mg,2026-10-10,14,0,yes
+SMH-26-4419,piperacillin-tazobactam injection,4.5 g,2026-10-08,6,0,no
+SMH-26-4419,pantoprazole injection,40 mg,2026-10-08,2,0,no
+SMH-26-4419,tramadol injection,50 mg,2026-10-08,3,0,no
+SMH-26-4419,amoxicillin-clavulanate,625 mg,2026-10-10,10,0,yes
+SMH-26-4419,paracetamol,650 mg,2026-10-10,9,0,yes
+SMH-26-4419,pantoprazole,40 mg,2026-10-10,5,0,yes
+SMH-26-4426,furosemide injection,20 mg/2 ml,2026-10-08,8,2,no
+SMH-26-4426,ramipril,2.5 mg,2026-10-09,14,0,yes
+SMH-26-4426,metoprolol succinate,25 mg,2026-10-10,14,0,yes
+SMH-26-4426,furosemide,40 mg,2026-10-10,14,0,yes
+SMH-26-4426,amlodipine,5 mg,2026-10-11,14,0,yes
+SMH-26-4430,paracetamol,650 mg,2026-10-09,20,6,no
+SMH-26-4430,paracetamol,650 mg,2026-10-12,10,0,yes
+SMH-26-4433,cefuroxime injection,1.5 g,2026-10-10,1,0,no
+SMH-26-4433,diclofenac injection,75 mg,2026-10-10,4,2,no
+SMH-26-4433,paracetamol,650 mg,2026-10-11,15,0,yes
